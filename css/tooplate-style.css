@@ -34,7 +34,16 @@ html, body {
 
 .sanVM {
   position: relative;
-  float: left;
+  left: 0;
+  right: 0;
+  margin-bottom: 100px;
+}
+
+.jokke {
+  margin-top: 100px;
+  position: relative;
+  left: 0;
+  right: 0;
 }
 
 h1,h2,h3,h4,h5,h6 {
